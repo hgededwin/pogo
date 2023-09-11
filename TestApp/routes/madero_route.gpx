@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!-- MADERO ROUTE --->
+    <wpt lat="19.433207696142173" lon="-99.13431504878692">
+        <name>madero7</name>
+        <time>2010-01-01T00:10:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.433331541406552" lon="-99.13519852139055">
+        <name>madero6</name>
+        <time>2010-01-01T00:11:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.433471230206877" lon="-99.13626951690848">
+        <name>madero5</name>
+        <time>2010-01-01T00:12:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.43362023696022" lon="-99.13726011068326">
+        <name>madero4</name>
+        <time>2010-01-01T00:13:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.433768571345265" lon="-99.13834223800738">
+        <name>madero3</name>
+        <time>2010-01-01T00:14:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.433945628891333" lon="-99.1394204860812">
+        <name>madero2</name>
+        <time>2010-01-01T00:15:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.433888843929275" lon="-99.14061277593899">
+        <name>madero1</name>
+        <time>2010-01-01T00:16:00Z</time>
+    </wpt>
+    
+</gpx>

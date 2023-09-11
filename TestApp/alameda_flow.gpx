@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <wpt lat="19.435283992239015" lon="-99.14133249672962">
+       <name>PALACIO_BELLAS_ARTES</name>
+       <time>2010-01-01T00:10:00Z</time>
+   </wpt>
+
+    <wpt lat="19.435379045744185" lon="-99.14216360019401">
+       <name>alameda</name>
+       <time>2010-01-01T00:11:00Z</time>
+   </wpt>
+    
+    <wpt lat="19.43555999995042" lon="-99.14301239111525">
+        <name>alameda2</name>
+        <time>2010-01-01T00:12:00Z</time>
+    </wpt>
+    
+    <wpt lat="19.434711613277713" lon="-99.14223156433205">
+         <name>alameda3</name>
+         <time>2010-01-01T00:13:00Z</time>
+     </wpt>
+    
+    <wpt lat="19.43519274808418" lon="-99.14308476663653">
+         <name>alameda4</name>
+         <time>2010-01-01T00:14:00Z</time>
+     </wpt>
+    
+    <wpt lat="19.435686010859587" lon="-99.14399370577496">
+         <name>ALAMEDA_CENTRO</name>
+         <time>2010-01-01T00:15:00Z</time>
+     </wpt>
+      
+      <wpt lat="19.436583583564964" lon="-99.14479545879946">
+           <name>alameda5</name>
+           <time>2010-01-01T00:16:00Z</time>
+       </wpt>
+      
+      <wpt lat="19.435556630628177" lon="-99.14501411868655">
+           <name>alameda6</name>
+           <time>2010-01-01T00:17:00Z</time>
+       </wpt>
+      
+      <wpt lat="19.435692445635073" lon="-99.14732727592437">
+           <name>parque_alameda</name>
+           <time>2010-01-01T00:18:00Z</time>
+       </wpt>
+
+   <wpt lat="19.435283992239015" lon="-99.14133249672962">
+         <name>PALACIO_BELLAS_ARTES</name>
+         <time>2010-01-01T00:20:00Z</time>
+     </wpt>
+            
+      <wpt lat="19.43641288503128" lon="-99.14193186268665">
+         <name>alameda</name>
+         <time>2010-01-01T00:22:00Z</time>
+     </wpt>
+      
+      <wpt lat="19.435573137470623" lon="-99.13697514048218">
+         <name>alameda</name>
+         <time>2010-01-01T00:24:00Z</time>
+     </wpt>
+      
+      <wpt lat="19.43501694586199" lon="-99.1329193589704">
+         <name>alameda</name>
+         <time>2010-01-01T00:25:00Z</time>
+     </wpt>
+      
+      <wpt lat="19.434197426203788" lon="-99.13609509489912">
+         <name>TO_ZOCALO</name>
+         <time>2010-01-01T00:26:00Z</time>
+     </wpt>
+    
+    <wpt lat="19.435283992239015" lon="-99.14133249672962">
+       <name>PALACIO_BELLAS_ARTES</name>
+       <time>2010-01-01T00:28:00Z</time>
+   </wpt>
+</gpx>

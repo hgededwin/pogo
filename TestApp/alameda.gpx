@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+
+    <wpt lat="19.248382442197315" lon="-98.90982655997605">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:00:00Z</time>
+    </wpt>
+
+    <wpt lat="19.248725260876967" lon="-98.90386462160397">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:10:00Z</time>
+    </wpt>
+
+    <wpt lat="19.24714260568608" lon="-98.8995684166838">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:20:00Z</time>
+    </wpt>
+        
+    <wpt lat="19.24490331168886" lon="-98.90083731287885">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:30:00Z</time>
+    </wpt>
+        
+    <wpt lat="19.245684154318038" lon="-98.90240587877764">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:40:00Z</time>
+    </wpt>
+    
+    
+    <wpt lat="19.262505751353466" lon="-98.8968793866173">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:40:30Z</time>
+    </wpt>
+    
+    <wpt lat="19.248725260876967" lon="-98.90386462160397">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:50:00Z</time>
+    </wpt>
+
+    <wpt lat="19.248382442197315" lon="-98.90982655997605">
+        <name>GYM_PALACIO_BELLAS_ARTES</name>
+        <time>2010-01-01T00:60:00Z</time>
+    </wpt>
+  </gpx>
